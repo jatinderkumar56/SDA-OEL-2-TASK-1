@@ -1,0 +1,7 @@
+C:\Users\92349\Documents\Visual Studio 2015\Projects\WebSite1\BussinesLogicLayer\bin\Debug\BussinesLogicLayer.dll
+C:\Users\92349\Documents\Visual Studio 2015\Projects\WebSite1\BussinesLogicLayer\bin\Debug\BussinesLogicLayer.pdb
+C:\Users\92349\Documents\Visual Studio 2015\Projects\WebSite1\BussinesLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\92349\Documents\Visual Studio 2015\Projects\WebSite1\BussinesLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\92349\Documents\Visual Studio 2015\Projects\WebSite1\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\92349\Documents\Visual Studio 2015\Projects\WebSite1\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.dll
+C:\Users\92349\Documents\Visual Studio 2015\Projects\WebSite1\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.pdb
